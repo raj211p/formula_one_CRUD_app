@@ -1,5 +1,5 @@
 # formula_one_CRUD_app
-Allows a user to simulate the management of multiple Formula One teams and manage team info using a PHP/MySQL CRUD application.
+Allows a user to simulate the management of multiple Formula One teams and manage team info using a CRUD application built on the LAMP stack.
 
 Main database tables:
 teams, races, drivers, cars, & pit crew.
